@@ -3,10 +3,10 @@ DSA Search Engine Link:   https://dsa-search-engine-five.vercel.app/
 
 ## Search Results:
 Search results on Binary Search:
-![s5](https://github.com/Piyush-Pise/Search-Engine-On-DSA-Questions/assets/75115056/69935994-8994-49bb-b0ba-d0d068e1a579)
+![s5](https://dsa-search-engine-five.vercel.app/search?q=binary+search)
 
 Search results on Linked List:
-![s6](https://github.com/Piyush-Pise/Search-Engine-On-DSA-Questions/assets/75115056/d5fc823e-7e08-4735-aca7-79a5cee8b43e)
+![s6](https://dsa-search-engine-five.vercel.app/search?q=linked+list)
 
 ## Description:
 This project presents a search engine for Data Structures and Algorithms (DSA) questions. It involves an extensive scraping process, where 2905 problems were extracted from LeetCode using Selenium WebDriver and BeautifulSoup in Python. To ensure the data's cleanliness and usability, Natural Language Toolkit (NLTK) text processing libraries were employed for processing and cleaning the scraped information.
